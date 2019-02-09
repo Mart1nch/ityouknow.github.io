@@ -6,20 +6,20 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:  纯洁的微笑
-subtitle: 分享技术，品味人生
-name: 纯洁的微笑 
-email: ityouknow@126.com
-description: 本站是纯洁的微笑的技术分享博客。内容涵盖生活故事、Java后端技术、Spring Boot、Spring Cloud、微服务架构、大数据演进、高可用架构、中间件使用、系统监控等相关的研究与知识分享。
-keywords: ityouknow,纯洁的微笑,Spring,Spring Boot,Spring Cloud,MongoDB,Jvm,Docker,生活故事,架构,大数据,一线,FastDFS,开发者,编程,代码,开源,IT网站,Developer,Programmer,Coder,Geek,IT技术博客,Java,Python,
+title:  Martin
+subtitle: Martin's blog
+name: Martin
+email: 865026758@qq.com
+description: 本站是Martin做大梦的地方，偶尔分享，爱看不看。诚实笑.jpg
+keywords: 白日梦想家,java,python,looking for the job about java
 encoding: "utf-8"
 favicon: favicon.png 
 
-repository: ityouknow/ityouknow.github.io
-github_url: https://github.com/ityouknow
-cnblog_url: http://www.cnblogs.com/ityouknow
-url: http://www.ityouknow.com
-enforce_ssl: ityouknow.com
+repository: Mart1nch/Mart1nch.github.io
+github_url: https://github.com/Mart1nch
+cnblog_url: http://www.cnblogs.com/Mart1nch
+url: https://Mart1nch.github.io
+enforce_ssl: Mart1nch.com
 
 ## Gem
 plugins:
@@ -171,17 +171,17 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: ityouknow
+    username: Mart1nch
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: ityouknow
+    owner: Mart1nch
     repo: blog-comments
     oauth:
         client_id: 61bfc53d957e74e78f8f
         client_secret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: ityouknow
+    owner: Mart1nch
     repo: blog-comments
     clientID: 61bfc53d957e74e78f8f
     clientSecret: 31c61e66cdcc9ada8db2267ee779d0bdafac434c
