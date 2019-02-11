@@ -2,7 +2,7 @@
 layout: post
 title: 幸存者偏差
 no-post-nav: true
-copyright: flyever
+copyright: favicon
 category: life
 tags: [life]
 ---
