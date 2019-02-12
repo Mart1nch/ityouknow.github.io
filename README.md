@@ -11,4 +11,4 @@
 
 ## 我的微信公众号
 
-![](http://www.mart1n.com/assets/images/lookforlight.jpeg)
+![](http://www.mart1n.cn/assets/images/lookforlight.jpeg)
