@@ -101,17 +101,17 @@ labels:
     href: /jvm.html
     name: Jvm
 
-  -
-    href: /fastdfs.html
-    name: FastDFS
+#   -
+#     href: /fastdfs.html
+#     name: FastDFS
 
-  -
-    href: /mongodb.html
-    name: MongoDB
+#   -
+#     href: /mongodb.html
+#     name: MongoDB
 
-  -
-    href: /docker.html
-    name: Docker
+#   -
+#     href: /docker.html
+#     name: Docker
 
   -
     href: /open-source.html
