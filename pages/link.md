@@ -32,7 +32,7 @@ permalink: /link
 - [Martin](http://www.mart1n.cn/) - 个人独立博客
 - [github](https://github.com/mart1nch) -  我分享代码的地方
 - [知乎](https://www.zhihu.com/people/mart1nn) - 个人知乎地址，回答一些问题
-- [CSDN](http://blog.csdn.net/ityouknow)  - 第一次写博客的地方
+- [CSDN](http://blog.csdn.net/mart1nn)  - 第一次写博客的地方
 
 ## 其它  
 
