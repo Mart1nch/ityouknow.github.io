@@ -175,14 +175,14 @@ disqus:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: Mart1nch
-    repo: mart1n.cn
+    repo: www.mart1n.cn
     oauth:
         client_id: fa13204961b0ef4842d9
         client_secret: 732472a601f9eee7e119addf253e8f24c8baeb6f
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: Mart1nch
-    repo: mart1n.cn
+    repo: www.mart1n.cn
     clientID: fa13204961b0ef4842d9
     clientSecret: 732472a601f9eee7e119addf253e8f24c8baeb6f
 # 在使用其它评论组件时可点击显示 Disqus
