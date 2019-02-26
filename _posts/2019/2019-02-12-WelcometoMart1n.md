@@ -1,7 +1,7 @@
 ---
-layout:post
-title:初来乍到
-category:life
+layout: post
+title: 幸存者偏差
+category: life
 tags: [life]
 ---
 
