@@ -1,12 +1,12 @@
 ---
 layout: page
 title: spring系列文章
-titlebar: Spring
+titlebar: spring
 subtitle: <span class="mega-octicon octicon-flame"></span>&nbsp;&nbsp; spring系列教程
 menu: spring
 css: ['blog-page.css']
 permalink: /spring
-keywords: 
+keywords: spring
 ---
 
 <div class="row">
