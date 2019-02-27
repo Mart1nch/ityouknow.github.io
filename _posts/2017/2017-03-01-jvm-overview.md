@@ -1,8 +1,8 @@
 ---
 layout: post
 title: jvm系列(八):jvm知识点总览
-category: java 
-tags: [java]
+category: jvm 
+tags: [jvm]
 ---
 
 
