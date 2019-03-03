@@ -2,7 +2,7 @@
 layout: page
 title: Spring 系列文章
 titlebar: spring
-subtitle: <span class="mega-octicon octicon-organization"></span>&nbsp;&nbsp; Spring 系列教程
+subtitle: <span class="mega-octicon octicon-frame"></span>&nbsp;&nbsp; Spring 系列教程
 menu: spring
 css: ['blog-page.css']
 permalink: /spring
