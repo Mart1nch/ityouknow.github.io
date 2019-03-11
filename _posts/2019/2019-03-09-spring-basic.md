@@ -55,7 +55,7 @@ aop：面向切面编程（aspect oriented programming）
 另：代码全部上传到github了：https://github.com/Mart1nch/HelloSpring，你可以直接clone下来看一下，就不用自己写了
 
 
-![](http://www.itmind.net/assets/images/2019/springbasic_1.jpg)
+![](http://www.itmind.net/assets/images/2019/spring/springbasic_1.jpg)
 
  User.java
  
